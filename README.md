@@ -1,1 +1,2 @@
 # Amazon_coin_calculator_for_MS
+for MonsterStrike
